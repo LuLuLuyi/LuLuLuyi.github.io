@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About Me
+# 🐯 About Me
 
 Welcome to my homepage! Currently, I am a M.S. Student at [Fudan University](https://www.fudan.edu.cn/en/), advised by Prof. [Tao Gui](https://scholar.google.com/citations?user=h1-3lvwAAAAJ&hl=zh-CN) and Prof. [Xuanjing Huang](https://scholar.google.com/citations?user=y7wVlWkAAAAJ&hl=zh-CN). Previously, I received my B.S. degree from [Northeastern University](http://english.neu.edu.cn/) in 2023, where I was an Outstanding Graduate and ranked 3/221 (top 1%) with a GPA of 4.365/5.0.
 
