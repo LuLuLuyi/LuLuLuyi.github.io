@@ -25,7 +25,7 @@
 
 [[Paper]](https://arxiv.org/abs/2510.08189) \| [[Project]](https://reasoning-horizon.github.io/) \| [[Code]](https://github.com/meituan-longcat/R-HORIZON) \| [[Datasets]](https://huggingface.co/collections/lulululuyi/r-horzion-datasets) \| [[Models]](https://huggingface.co/collections/lulululuyi/r-horizon-models) \| [![](https://img.shields.io/github/stars/meituan-longcat/R-HORIZON?style=social&label=Code+Stars)](https://github.com/meituan-longcat/R-HORIZON)
 
-- The first benchmark for evaluating long-horizon reasoning in reasoning models 📏
+- A benchmark for evaluating long-horizon reasoning 📏
 - Proposes a long-horizon data synthesis pipeline and improves long-horizon reasoning with reinforcement learning 🔧
 </div>
 </div>
@@ -39,7 +39,7 @@
 
 [[Paper]](https://arxiv.org/pdf/2409.12181) \| [[Video]](https://www.youtube.com/watch?v=dc4chADushM&t=74s) \| [[Code]](https://github.com/Leooyii/LCEG) \| [[Models & Datasets]](https://huggingface.co/collections/lulululuyi/long-context-controlled-study) \| [![](https://img.shields.io/github/stars/Leooyii/LCEG?style=social&label=Code+Stars)](https://github.com/Leooyii/LCEG)
 
-- Create a tutorial on Long-Context LLM Extension with Sasha Rush 📚
+- **Tutorial:** Long-Context LLM Extension with Sasha Rush [[Video]](https://www.youtube.com/watch?v=dc4chADushM&t=74s) 🎥
 - The first controlled study that systematically evaluates long-context extension methods 🧪
 </div>
 </div>
