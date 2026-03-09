@@ -1,3 +1,5 @@
+<span class='anchor' id='internships'></span>
+
 # 💻 Internships
 - *2025.06 - 2026.02*, Beidou Research Intern, Post Train Team at Meituan LongCat, advised by Jianing Wang and Wei Wang.
 - *2023.04 - 2023.11*, Research Intern, Shanghai AI Lab, advised by Zhiyong Wu.

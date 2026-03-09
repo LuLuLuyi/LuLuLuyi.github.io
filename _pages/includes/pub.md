@@ -1,15 +1,18 @@
+<span class='anchor' id='publications'></span>
+
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/pub/block_diffusion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/pub/block_diffusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Advancing Block Diffusion Language Models for Test-Time Scaling](https://arxiv.org/abs/2602.09555)
 
 **Yi Lu**, Deyang Kong, Jianing Wang, Linsen Guo, Xue Wang, Qi Guo, Tao Gui, Xuanjing Huang, Wei Ye, Shikun Zhang, Wei Wang
 
-[[Paper]](https://arxiv.org/abs/2602.09555)
+[[Paper]](https://arxiv.org/abs/2602.09555) \| [[Model]](https://huggingface.co/collections/lulululuyi/tdar-8b-thinking) \| [[Code]](https://github.com/LuLuLuyi/TDAR) \| [![](https://img.shields.io/github/stars/LuLuLuyi/TDAR?style=social&label=Code+Stars)](https://github.com/LuLuLuyi/TDAR)
 
-- Best long CoT block diffusion language models at 8B scale.
+- Best long CoT block diffusion language models at 8B scale 🚀
+- Proposes a "Think Coarse, Critic Fine" paradigm for fast exploration and fine-grained reflection in diffusion reasoning models 🧠
 </div>
 </div>
 
@@ -20,8 +23,10 @@
 
 **Yi Lu**, Jianing Wang, Linsen Guo, Wei He, Hongyin Tang, Tao Gui, Xuanjing Huang, Xuezhi Cao, Wei Wang, Xunliang Cai
 
-[[Paper]](https://arxiv.org/abs/2510.08189) \| [[Project]](https://reasoning-horizon.github.io/)
+[[Paper]](https://arxiv.org/abs/2510.08189) \| [[Project]](https://reasoning-horizon.github.io/) \| [[Code]](https://github.com/meituan-longcat/R-HORIZON) \| [[Datasets]](https://huggingface.co/collections/lulululuyi/r-horzion-datasets) \| [[Models]](https://huggingface.co/collections/lulululuyi/r-horizon-models) \| [![](https://img.shields.io/github/stars/meituan-longcat/R-HORIZON?style=social&label=Code+Stars)](https://github.com/meituan-longcat/R-HORIZON)
 
+- The first benchmark for evaluating long-horizon reasoning in reasoning models 📏
+- Proposes a long-horizon data synthesis pipeline and improves long-horizon reasoning with reinforcement learning 🔧
 </div>
 </div>
 
@@ -32,9 +37,10 @@
 
 **Yi Lu**, Jing Nathan Yan, Songlin Yang, Justin T. Chiu, Siyu Ren, Fei Yuan, Wenting Zhao, Zhiyong Wu, Alexander M. Rush
 
-[[Paper]](https://arxiv.org/pdf/2409.12181) \| [[Video]](https://www.youtube.com/watch?v=dc4chADushM&t=74s)
+[[Paper]](https://arxiv.org/pdf/2409.12181) \| [[Video]](https://www.youtube.com/watch?v=dc4chADushM&t=74s) \| [[Code]](https://github.com/Leooyii/LCEG) \| [[Models & Datasets]](https://huggingface.co/collections/lulululuyi/long-context-controlled-study) \| [![](https://img.shields.io/github/stars/Leooyii/LCEG?style=social&label=Code+Stars)](https://github.com/Leooyii/LCEG)
 
-- Create a tutorial on Long-Context LLM Extension with Sasha Rush.
+- Create a tutorial on Long-Context LLM Extension with Sasha Rush 📚
+- The first controlled study that systematically evaluates long-context extension methods 🧪
 </div>
 </div>
 
@@ -45,8 +51,10 @@
 
 **Yi Lu**, Wanxu Zhao, Xin Zhou, Chenxin An, Chenglong Wang, Shuo Li, Yuming Yang, Jun Zhao, Tao Ji, Tao Gui, Qi Zhang, Xuanjing Huang
 
-[[Paper]](https://arxiv.org/abs/2504.18857)
+[[Paper]](https://arxiv.org/abs/2504.18857) \| [[Code]](https://github.com/LuLuLuyi/DPE) \| [![](https://img.shields.io/github/stars/LuLuLuyi/DPE?style=social&label=Code+Stars)](https://github.com/LuLuLuyi/DPE)
 
+- Achieves stronger extrapolation performance than YaRN without additional training ⚡
+- The first training-free extrapolation method that modifies RoPE at the dimension level 🧩
 </div>
 </div>
 
@@ -57,20 +65,22 @@
 
 **Yi Lu**, Xin Zhou, Wei He, Jun Zhao, Tao Ji, Tao Gui, Qi Zhang, Xuanjing Huang
 
-[[Paper]](https://arxiv.org/pdf/2402.10685)
+[[Paper]](https://arxiv.org/pdf/2402.10685) \| [[Code]](https://github.com/LuLuLuyi/LongHeads) \| [![](https://img.shields.io/github/stars/LuLuLuyi/LongHeads?style=social&label=Code+Stars)](https://github.com/LuLuLuyi/LongHeads)
 
-- **Cite by Kimi's MoBA.**
+- The first block-selection method for multi-head attention 🌟
+- Closely related to Kimi MoBA and DeepSeek NSA 🔗
+- Cited by Kimi's MoBA 📌
 </div>
 </div>
 
-- `ACL 2024` [Making Harmful Behaviors Unlearnable for Large Language Models](https://arxiv.org/abs/2311.02105), Xin Zhou<sup>&#42;</sup>, **Yi Lu**<sup>&#42;</sup>, Ruotian Ma, Tao Gui, Qi Zhang, Xuanjing Huang.
-- `EMNLP 2023` [TextMixer: Mixing Multiple Inputs for Privacy-Preserving Inference](https://aclanthology.org/2023.findings-emnlp.244/), Xin Zhou<sup>&#42;</sup>, **Yi Lu**<sup>&#42;</sup>, Ruotian Ma, Tao Gui, Qi Zhang, XuanJing Huang.
-- `ACL 2023` [Textobfuscator: Making pre-trained language model a privacy protector via obfuscating word representations](https://aclanthology.org/2023.findings-acl.337/), Xin Zhou<sup>&#42;</sup>, **Yi Lu**<sup>&#42;</sup>, Ruotian Ma, Tao Gui, Yuran Wang, Yong Ding, Yibo Zhang, Qi Zhang, Xuanjing Huang.
-- `EMNLP 2022` [Improved Knowledge Distillation for Pre-trained Language Models via Knowledge Selection](https://arxiv.org/abs/2302.00444), Chenglong Wang, **Yi Lu**, Yongyu Mu, Yimin Hu, Tong Xiao, Jingbo Zhu.
-- `EMNLP 2024` [LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration](https://arxiv.org/abs/2402.11550), Jun Zhao, Can Zu, Hao Xu, **Yi Lu**, Wei He, Yiwen Ding, Tao Gui, Qi Zhang, Xuanjing Huang.
-- `NeurIPS 2025` [Understanding Parametric and Contextual Knowledge Reconciliation within Large Language Models](https://openreview.net/pdf?id=76cFMRgEzQ), Jun Zhao, Yongzhuo Yang, Xiang Hu, Jingqi Tong, **Yi Lu**, Wei Wu, Tao Gui, Qi Zhang, Xuanjing Huang.
-- `Preprint` [OPE: Overcoming Information Saturation in Parallel Thinking via Outline-Guided Path Exploration](https://arxiv.org/abs/2602.08344), Qi Guo, Jianing Wang, Deyang Kong, Xiangyu Xi, Jianfei Zhang, **Yi Lu**, Jingang Wang, Wei Wang, Shikun Zhang, Wei Ye.
-- `EMNLP 2025` [Mitigating Object Hallucinations in MLLMs via Multi-Frequency Perturbations](https://arxiv.org/abs/2404.00884), Shuo Li, Jiajun Sun, Guodong Zheng, Xiaoran Fan, Yujiong Shen, **Yi Lu**, Zhiheng Xi, Yuming Yang, Wenming Tan, Tao Ji, Tao Gui, Qi Zhang, Xuanjing Huang.
-- `NAACL 2024` [Self-Demos: Eliciting Out-of-Demonstration Generalizability in Large Language Models](https://arxiv.org/abs/2404.00884), Wei He, Shichun Liu, Jun Zhao, Yiwen Ding, **Yi Lu**, Zhiheng Xi, Tao Gui, Qi Zhang, Xuanjing Huang.
+- <span class="badge">ACL 2024</span> [Making Harmful Behaviors Unlearnable for Large Language Models](https://arxiv.org/abs/2311.02105), Xin Zhou<sup>&#42;</sup>, **Yi Lu**<sup>&#42;</sup>, Ruotian Ma, Tao Gui, Qi Zhang, Xuanjing Huang.
+- <span class="badge">EMNLP 2023</span> [TextMixer: Mixing Multiple Inputs for Privacy-Preserving Inference](https://aclanthology.org/2023.findings-emnlp.244/), Xin Zhou<sup>&#42;</sup>, **Yi Lu**<sup>&#42;</sup>, Ruotian Ma, Tao Gui, Qi Zhang, XuanJing Huang.
+- <span class="badge">ACL 2023</span> [Textobfuscator: Making pre-trained language model a privacy protector via obfuscating word representations](https://aclanthology.org/2023.findings-acl.337/), Xin Zhou<sup>&#42;</sup>, **Yi Lu**<sup>&#42;</sup>, Ruotian Ma, Tao Gui, Yuran Wang, Yong Ding, Yibo Zhang, Qi Zhang, Xuanjing Huang.
+- <span class="badge">EMNLP 2022</span> [Improved Knowledge Distillation for Pre-trained Language Models via Knowledge Selection](https://arxiv.org/abs/2302.00444), Chenglong Wang, **Yi Lu**, Yongyu Mu, Yimin Hu, Tong Xiao, Jingbo Zhu.
+- <span class="badge">EMNLP 2024</span> [LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration](https://arxiv.org/abs/2402.11550), Jun Zhao, Can Zu, Hao Xu, **Yi Lu**, Wei He, Yiwen Ding, Tao Gui, Qi Zhang, Xuanjing Huang.
+- <span class="badge">NeurIPS 2025</span> [Understanding Parametric and Contextual Knowledge Reconciliation within Large Language Models](https://openreview.net/pdf?id=76cFMRgEzQ), Jun Zhao, Yongzhuo Yang, Xiang Hu, Jingqi Tong, **Yi Lu**, Wei Wu, Tao Gui, Qi Zhang, Xuanjing Huang.
+- <span class="badge">Preprint</span> [OPE: Overcoming Information Saturation in Parallel Thinking via Outline-Guided Path Exploration](https://arxiv.org/abs/2602.08344), Qi Guo, Jianing Wang, Deyang Kong, Xiangyu Xi, Jianfei Zhang, **Yi Lu**, Jingang Wang, Wei Wang, Shikun Zhang, Wei Ye.
+- <span class="badge">EMNLP 2025</span> [Mitigating Object Hallucinations in MLLMs via Multi-Frequency Perturbations](https://arxiv.org/abs/2404.00884), Shuo Li, Jiajun Sun, Guodong Zheng, Xiaoran Fan, Yujiong Shen, **Yi Lu**, Zhiheng Xi, Yuming Yang, Wenming Tan, Tao Ji, Tao Gui, Qi Zhang, Xuanjing Huang.
+- <span class="badge">NAACL 2024</span> [Self-Demos: Eliciting Out-of-Demonstration Generalizability in Large Language Models](https://arxiv.org/abs/2404.00884), Wei He, Shichun Liu, Jun Zhao, Yiwen Ding, **Yi Lu**, Zhiheng Xi, Tao Gui, Qi Zhang, Xuanjing Huang.
 
 *Denotes equal contribution.

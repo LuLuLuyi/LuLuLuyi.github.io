@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yi Lu"
-description              : "Homepage of Yi Lu"
+description              : "NLP, LLMs, Reasoning and Agentic AI"
 repository               : "LuLuLuyi/LuLuLuyi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yi Lu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Fudan University"
+  bio              : "Master Student at Fudan University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
