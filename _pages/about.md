@@ -28,16 +28,8 @@ My research interests lie in **Complex reasoning** and **long-horizon planning**
 
 {% include_relative includes/interns.md %}
 
-<!-- {% include_relative includes/talks.md %} -->
-
 {% include_relative includes/honors.md %}
 
-<!-- {% include_relative includes/ta.md %} -->
-
 {% include_relative includes/edu.md %}
-
-<!-- {% include_relative includes/services.md %} -->
-
-<!-- {% include_relative includes/reading.md %} -->
 
 > "What's past is prologue." -- William Shakespeare (The Tempest)
